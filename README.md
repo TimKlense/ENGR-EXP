@@ -1,4 +1,4 @@
-ENGR-EXP Project
+ENGR-EXP Finch Project
 ========
 ![alt text](http://i.imgur.com/0EOD8XK.jpg "The Best Finch Project Yet!")
 
