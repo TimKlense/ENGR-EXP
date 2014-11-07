@@ -4,5 +4,5 @@ ENGR-EXP Finch Project
 
 Our project is to program a finch to go a cerain distance and dodge obstacles. 
 
-Possible projects to think about
+Possible things to consider...
 * Allow the finch to play a tone.
