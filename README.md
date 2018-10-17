@@ -11,12 +11,12 @@ Possible things to consider...
 
 #### § Program Name: NAME
 
-- [Description](#Description) - 
-- [Design Patterns](#patterns) - 
+- [Description] - 
+- [Design Patterns] - 
   - ![Behavioral](https://img.shields.io/badge/Design%20Pattern-Behavioral-red.svg) - 
   - ![Creational](https://img.shields.io/badge/design%20pattern-Creational-red.svg) - 
   - ![Structural](https://img.shields.io/badge/design%20pattern-Structural-red.svg) - 
-- [Used Effectively?](#effective) - 
-- [Evaluatation of Program](#program) - 
-- [Evaluation of Presentation](#presentation) - 
-- [Feedback](#feedback) - 
+- [Used Effectively?] - 
+- [Evaluatation of Program] - 
+- [Evaluation of Presentation] - 
+- [Feedback] - 
