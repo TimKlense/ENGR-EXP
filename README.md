@@ -17,6 +17,6 @@ Possible things to consider...
   - ![Creational](https://img.shields.io/badge/design%20pattern-Creational-red.svg) - 
   - ![Structural](https://img.shields.io/badge/design%20pattern-Structural-red.svg) - 
 - [Used Effectively?] - 
-- [Evaluatation of Program] - 
+- [Evaluation of Program] - 
 - [Evaluation of Presentation] - 
 - [Feedback] - 
